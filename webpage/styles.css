@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+
+body {
+  background: -webkit-linear-gradient(to right, #2a0845, #6441a5);
+  background: linear-gradient(to right, #2a0845, #6441a5);
+  padding-top: 300px;
+  padding-left: 800px;
+  padding-right: 800px;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+.input {
+  height: 34px;
+  border-radius: 1.5em;
+  background-color: rgb(27, 27, 27);
+  text-align: center;
+  color: white;
+}
+
+.message {
+  color: white;
+}
